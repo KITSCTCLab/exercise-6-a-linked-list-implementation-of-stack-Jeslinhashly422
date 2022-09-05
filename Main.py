@@ -13,7 +13,7 @@ class Stack:
     # Write your code here
     new_node = Node(data)
     new_node.next = self.head
-    self.head = 
+    self.head = new node
 
   def pop(self) -> None:
     # Write your code here
